@@ -1,5 +1,4 @@
 import healthLevel from '../health';
-
 test.each([
   ['Маг', 60, 'healthy'],
   ['Мечник', 22, 'wounded'],
